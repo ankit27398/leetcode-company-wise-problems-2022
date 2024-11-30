@@ -1,5 +1,5 @@
-problem_link,problem_name,num_occur
-https://leetcode.com/problems/maximum-units-on-a-truck/,Maximum Units on a Truck,2
+problem_link,problem_name,num_occur,status
+https://leetcode.com/problems/maximum-units-on-a-truck/,Maximum Units on a Truck,2,open
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/,Lowest Common Ancestor of a Binary Tree III,5
 https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/,Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold,1
 https://leetcode.com/problems/rotting-oranges/,Rotting Oranges,2
